@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-    root 'page#home'
+    root 'page#strategy'
   get 'page/home'
 
   get 'page/strategy'
