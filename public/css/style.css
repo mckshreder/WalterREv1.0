@@ -1175,7 +1175,7 @@ p {
   -moz-transition: all 0.2s ease-out;
   -o-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
-  width: 100%;
+  width: 75%;
 }
 
 .read-more {
@@ -3418,6 +3418,10 @@ ol.numbers {
   margin: auto 15px;
 }
 
+/*.owl-item{
+  width: 575px !important;
+}*/
+
 .related-projects .heading-inline,
 .related-projects .customNavigation {
   display: inline-block;
@@ -3817,7 +3821,7 @@ ol.numbers {
   margin: 0px;
   border-width: 0px;
   border-style: none;
-  font-size: 85px;
+  font-size: 70px;
   text-transform: none;
 }
 
